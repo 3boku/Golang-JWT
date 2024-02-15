@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="yt_go_auth@localhost" uuid="a62f9494-d3a2-4da5-9b10-85d8ac9a4d6a">
+    <data-source source="LOCAL" name="yt_go_auth" uuid="8e4ebd34-4f2b-4e4d-9cb7-9c56726a1262">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
